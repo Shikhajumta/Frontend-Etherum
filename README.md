@@ -19,8 +19,8 @@ git clone <[repository-url](https://github.com/Shikhajumta/Frontend-Etherum.git)
 cd <repository-directory>
 
 Install Dependencies
-Inside the project directory, install the necessary dependencies:
-### npm install
+Inside the project directory, install the necessary dependencies: 
+``` npm install
 
 Start the Local Blockchain Node
 Open a second terminal in your VS Code and start a local Hardhat node:
