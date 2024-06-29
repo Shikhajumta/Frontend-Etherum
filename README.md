@@ -20,19 +20,19 @@ cd <repository-directory>
 
 Install Dependencies
 Inside the project directory, install the necessary dependencies:
-// npm install
+/// npm install
 
 Start the Local Blockchain Node
 Open a second terminal in your VS Code and start a local Hardhat node:
-// npx hardhat node
+/// npx hardhat node
 
 Deploy the Smart Contract
 Open a third terminal and deploy the smart contract to the local network:
-// npx hardhat run --network localhost scripts/deploy.js
+/// npx hardhat run --network localhost scripts/deploy.js
 
 Launch the Front-End
 Back in the first terminal, launch the front-end application:
-//npm run dev
+///npm run dev
 
 Access the Application
 The project will be running on your localhost, typically at:
